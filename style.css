@@ -1,0 +1,18 @@
+header {
+    height: 10vh; background-color: blue; text-align: center;
+    color: #ffffff;
+}
+footer{
+
+height: 13vh; background-color: black; bottom: 0; position: fixed; width: 100vw; text-align: center;
+color: red;
+}
+h1{
+    color:  red;  text-shadow: 4px 4px 8px  black;
+} 
+.par{
+    color: orange;
+}
+.par2{
+    color: yellow;
+}
